@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+Version A_0.5
 
-You can use the [editor on GitHub](https://github.com/ExponentialCoffeeConsumption/ExponentialCoffeeConsumption.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# **About me**
+# 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Content
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+1. About this website
+2. About myself
+3. Some useful links
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 1. About this website
 
-### Jekyll Themes
+```
+Text from the website I actually wanted to make, unfortunately it didn't work, so some information is not (100%) correct:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExponentialCoffeeConsumption/ExponentialCoffeeConsumption.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Welcome to my first website I've ever made. The reason why I made it, is to learn next to programming languages like python, 
+this markup language aka HTML. 
+It'll surely be useful for school, later university and future job. 
+If you check this website out during a long time, you might be able to notice changes, 
+since I try to improve my HTML knowledge and maybe intergrate CSS and javascript as well into this site. 
+For now it looks pretty basic probably like a website before I even was born before 2004, 
+but hopefully my overtime improving HTML / CSS / and javascript knowledge will help me making this website look professional.
+```
 
-### Support or Contact
+## 2. About myself
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+Will be added later
+```
+
+## 3. Some useful links
+
+- [Youtube video about waves, kinda relaxing to watch them](https://youtu.be/V-_O7nl0Ii0?t=18)
