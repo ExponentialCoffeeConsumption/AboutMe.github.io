@@ -1,7 +1,6 @@
 Version A_0.5
 
 # **About me**
-# 
 
 
 
